@@ -1,0 +1,82 @@
+1. Business Name 
+• Business Name: KalaLuxe 
+• Tagline: "Where Every Stroke Tells Your Story" 
+• Parent Company: (Independent brand) 
+2. Business Overview 
+• Background: Founded in 2025 in Indore, MP, by Varsha Mittal, 
+a designer blending traditional hand-painting with modern 
+silhouettes. Targets women seeking affordable yet luxurious, 
+artistic fashion. 
+• Core Activities: 
+o Hand-painted sarees (georgette, organza) 
+o Matching clutches and footwear (floral/abstract motifs) 
+o Budget-friendly customization for everyday elegance. 
+• Key Values: 
+o Artistry for All: Premium hand-painted designs at mid-range 
+prices. 
+o Modern Tradition: Contemporary cuts with heritage 
+techniques. 
+o Wearable Art: Every piece is a canvas. 
+3. Website Purpose 
+• Highlight the aesthetic elegance of hand-painted collections. 
+• Cater to mid-range buyers without compromising luxury appeal. 
+• Simplify customization for sarees, clutches, and footwear. 
+4. Target Audience 
+• Ideal Customers: 
+o Women aged 20–70 who value artisanal fashion but seek 
+affordability. 
+o Students/young professionals wanting "Instagrammable" 
+ethnicwear. 
+o Brides and mature buyers desiring lightweight, artistic sarees. 
+• Segments: Budget-conscious luxury shoppers, aesthetic-driven 
+Gen Z, saree collectors. 
+5. Products/Services Offered 
+1. Hand-Painted Sarees: 
+o Pure Georgette (₹3,500–8,000) – Florals, abstract patterns. 
+o Sheer Organza (₹5,000–12,000) – Delicate metallic accents. 
+2. Accessories: 
+o Clutches (₹800–2,500): Miniature saree motifs. 
+o Footwear (₹1,200–3,000): Hand-painted sandals/juttis. 
+3. Customization: Add initials, adjust blouse designs, or tweak color 
+palettes (+₹500–2,000). 
+6. Website Features Required 
+• Key Pages: 
+o Homepage | About | Shop (Sarees, Clutches, Footwear) | 
+Custom Studio | Contact 
+• Optional: 
+o Blog ("Art & Thread") | Customer Gallery (user-generated 
+content) 
+7. Contact Information 
+• Phone: +91-97549-46041 
+• Email: hello@kalaluxe.in 
+• Social Media: Instagram, Pinterest (@kalaluxe.in) 
+• Address: B-65 MIG Colony, Indore, MP (studio visits by 
+appointment). 
+8. Website Design Preferences 
+• Colors: Soft, flowery pastels – blush pink, mint green, buttermilk 
+yellow, and pearl white. 
+• Fonts: Modern serif (e.g., Cormorant) + airy sans-serif 
+(e.g., Poppins). 
+• Vibe: Artistic, feminine, and accessible luxury. 
+• Design Inspo: Subtle watercolor motifs, Raw Mango’s 
+minimalism, Anouk’s affordability. 
+9. Tools and Technology 
+• Platform: WooCommerce (WordPress) for flexible pricing tiers. 
+• Plugins: Ajax Search for quick browsing, AR Viewer (future: 
+virtual try-on). 
+• Payment: Razorpay, Cash on Delivery (COD), and EMI options. 
+10. Basic Website Structure (Wireframe) 
+• Homepage: Hero slider with sarees/clutches, "Best for Budget" 
+section, trending reel from Instagram. 
+• Custom Studio: Step-by-step design tool (select fabric → choose 
+motif → add personalization). 
+• Shop Pages: Filter by price range (₹2k–5k, ₹5k–10k, etc.). 
+11. Extra Notes 
+• Pricing Strategy: Highlight "Luxe for Less" deals (e.g., saree + 
+clutch combos). 
+• SEO Focus: Keywords like "affordable hand-painted sarees," 
+"designer clutches under ₹2k." 
+• Storytelling: Share time-lapse videos of artists painting sarees. 
+• Images: Use styled flat lays against pastel backdrops; avoid stock 
+photos. 
+• Language: English + Hindi (for tier-2/3 cities). 
